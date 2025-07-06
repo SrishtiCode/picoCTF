@@ -3,7 +3,7 @@
 ## Description
 RED, RED, RED, RED Download the image: red.png
 
-# Solution
+## Solution
 
 Download the given image RED.png
 
